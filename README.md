@@ -76,5 +76,5 @@ npm (file name: index.js)
 ​Email me at carina.webdev@gmail.com.
 
 ## Badge
-[![GitHub license] (https://img.shields.io/badge/license-${license}-blue.svg)](https://github.com/Cmanent/Good-README-Genrator)
+       http://www.apache.org/licenses/LICENSE-2.0
 
