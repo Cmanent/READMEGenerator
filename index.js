@@ -61,7 +61,7 @@ function init() {
          // console.log({...answers, ...github.data})
          var mdfile = generateMarkdown({...answers, ...github.data})
          console.log(mdfile)
-         fs.writeFile("README.md", generateMarkdown({...answers, ...github.data}), function(err,data){
+         fs.writeFile("FakeREADME.md", generateMarkdown({...answers, ...github.data}), function(err,data){
            console.log(err,data)
          })
         })
