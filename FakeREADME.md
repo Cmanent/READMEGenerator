@@ -1,24 +1,24 @@
 
 
 
-# My name is:Isabel
+# My name is:Carina Manent
 
-# My github user: iarcones
+# My github user: cmanent
 
-![]( https://avatars1.githubusercontent.com/u/26390392?v=4 )
+![]( https://avatars3.githubusercontent.com/u/57699329?v=4 )
 
-# My license: MIT
+# My license: APACHE 2.0
 
-# Project Title: dsjngslngskl;
+# Project Title: weather dashbaord
 
-# Description: ndsg;akn;agksdgsad
+# Description: weather website for hourly and 5 day forecast in any city
 
-# Table of Contents: sdbasdajklbgajks
+# Table of Contents: search bar, api, test,etc.
 
-# Installation: sdajbkdsjbdg
+# Installation: npm i
 
-# Usage: kjbsdakbdskjgb
+# Usage: commit often!
 
-# License: MIT
+# License: APACHE 2.0
 
-# Contributing: kjdsfkbjsad
+# Contributing: commit commit commit
