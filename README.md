@@ -1,5 +1,4 @@
 # READMEGenerator
-# READMEGenerator
 
 ## Carina A Manent
 
@@ -77,5 +76,5 @@ npm (file name: index.js)
 ​Email me at carina.webdev@gmail.com.
 
 ## Badge
-[![GitHub license] (https://img.shields.io/badge/license-${license}-blue.svg)](https://github.com/Cmanent/Good-README-Genrator)
+[![GitHub license] (https://img.shields.io/badge/LICENSE-2.0-blue.svg)](https://github.com/Cmanent/Good-README-Genrator)
 
