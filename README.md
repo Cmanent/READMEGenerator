@@ -56,8 +56,7 @@ Testing Homework and Projects for Full Stack Development Program.
 ​
 ## License
 ​
-This project is licensed under the MIT license.
-  https://img.shields.io/badge/license-${license}-blue.svg
+Apache 2.0
 
 
 ## Contributing
