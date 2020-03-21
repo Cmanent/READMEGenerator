@@ -3,27 +3,37 @@ function generateMarkdown(data) {
   return `
 
 
-# My name is:${data.name}
+# My name is:
+${data.name}
 
-# My github user: ${data.username}
+# My github user:
+ ${data.username}
 
 ![]( ${data.avatar_url} )
 
-# My license: ${data.license}
+# My license:
+ ${data.license} 
 
-# Project Title: ${data.projecttitle}
+# Project Title:
+ ${data.projecttitle}
 
-# Description: ${data.description}
+# Description:
+ ${data.description}
 
-# Table of Contents: ${data.tableofcontents}
+# Table of Contents:
+ ${data.tableofcontents}
 
-# Installation: ${data.installation}
+# Installation:
+ ${data.installation}
 
-# Usage: ${data.usage}
+# Usage:
+ ${data.usage}
 
-# License: ${data.license}
+# License:
+ ${data.license}
 
-# Contributing: ${data.contributing}
+# Contributing: 
+${data.contributing}
 `;
 }
 

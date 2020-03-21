@@ -7,18 +7,19 @@
 
 ![]( https://avatars3.githubusercontent.com/u/57699329?v=4 )
 
-# My license: APACHE 2.0
+# My license: MIT
 
-# Project Title: weather dashbaord
+# Project Title: weather dashboard
 
-# Description: weather website for hourly and 5 day forecast in any city
+# Description:  
+ weather website with multiple day forecast
 
-# Table of Contents: search bar, api, test,etc.
+# Table of Contents: 
 
-# Installation: npm i
+# Installation: 
 
-# Usage: commit often!
+# Usage: 
 
-# License: APACHE 2.0
+# License: MIT
 
-# Contributing: commit commit commit
+# Contributing: 
